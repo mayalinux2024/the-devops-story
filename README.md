@@ -1,10 +1,37 @@
 # 📖 The DevOps Story
 
+## Mission
+
+Understand the entire DevOps ecosystem in one afternoon.
+
+## GOAL: Finish the complete DevOps Story in under two hours.
+
+## Every Chapter Ends the Same Way
+
+After understanding the story, you'll reach one final step:
+
+🔘 Show Me the Real Implementation
+
+Click it, and you'll see the smallest possible working example of the technology you just learned.
+
+Examples:
+
+• Docker → Dockerfile
+• Kubernetes → deployment.yaml
+• Terraform → main.tf
+• Jenkins → Jenkinsfile
+
+📖 Story
+      ↓
+🧠 I understand the idea
+      ↓
+🔘 Show me the real implementation
+
 ### Learn DevOps from first principles through storytelling and real-world implementation.
 
 > **Most DevOps tutorials teach commands. This project teaches the problems those commands were invented to solve.**
 
-Learn the complete DevOps ecosystem through one continuous story, then build every technology using real-world implementations.
+Understand the complete DevOps ecosystem through one continuous story, then explore a minimal working example of every technology.
 
 Instead of memorizing tools in isolation, you'll understand **why each technology exists**, **what problem it solves**, and **how it fits into a modern DevOps workflow**.
 
