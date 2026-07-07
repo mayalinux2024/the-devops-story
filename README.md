@@ -30,7 +30,8 @@ Every chapter follows the same learning path:
 
 | Chapter | Video |
 |---------|-------|
-| 1 | [▶ The Empty Land](story-videos/The_DevOps_Kingdom-Ch.0.mp4) |
+| 0 | [▶ Watch on LinkedIn](https://www.linkedin.com/posts/maya-aladdin-mohamed-89b062a3_devops-aws-cloudcomputing-ugcPost-7480022309353988096-qwzl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXmKHcBYDYkMBdcM2Wkgu-IAhMGwGY9l8o) |
+| 1 | Coming Soon |
 | 2 | Coming Soon |
 | 3 | Coming Soon |
 | 4 | Coming Soon |
