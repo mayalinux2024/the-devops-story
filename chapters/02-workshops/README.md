@@ -1,6 +1,6 @@
 # Chapter 2 — Building Workshops (EC2)
 
-📖 Story
+# 📖 Story
 
 Now the king builds workshops.
 
@@ -11,25 +11,27 @@ Now the king builds workshops.
 |                |
 +----------------+
 
-## Each workshop has:
-tables
-electricity
-workers
+Each workshop has:
+- tables
+- electricity
+- workers
 
-## In computers...
+In computers...
 A workshop is called an EC2 machine.
+
 Whenever someone says:
 "I started an EC2."
+
 Think:
 "I built another workshop."
 
-❓ Problem
+# ❓ Problem
 
-🌍 Real-World Translation
+# 🌍 Real-World Translation
 
-☁️ Technical Explanation
+# ☁️ Technical Explanation
 
-🔘 Show Me the Real Implementation
+# 🔘 Show Me the Real Implementation
 
 🎯 Key Takeaways
 
