@@ -4,22 +4,20 @@
 
 Now the king builds workshops.
 
-      Workshop
-+----------------+
-|                |
-|                |
-|                |
-+----------------+
+Workshop
 
 Each workshop has:
+
 - tables
 - electricity
 - workers
 
 In computers...
+
 A workshop is called an EC2 machine.
 
 Whenever someone says:
+
 "I started an EC2."
 
 Think:
