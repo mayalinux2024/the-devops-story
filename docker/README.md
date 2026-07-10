@@ -1,4 +1,4 @@
-# Docker - The Magic Lunchbox
+# Docker - The Magic Lunchbox (Chapter 4)
 
 ## Objective
 
@@ -154,9 +154,20 @@ Welcome to the DevOps Story!
 # Screenshots
 
 - Docker Build
+
+  <img width="842" height="269" alt="docker-build" src="https://github.com/user-attachments/assets/8b728a65-0385-4807-8b95-0fe8b02bb6e0" />
+
 - Docker Images
+
+  <img width="466" height="71" alt="docker-images" src="https://github.com/user-attachments/assets/eedaea4f-dc7b-4649-8f2a-bb2b31a4714d" />
+
 - Running Container
+
+  <img width="637" height="99" alt="docker-run" src="https://github.com/user-attachments/assets/64bae966-a0a2-4e32-8fab-b5f85cdc3532" />
+
 - Browser Output
+
+  <img width="194" height="83" alt="browser-docker-magic-lunchbox-image" src="https://github.com/user-attachments/assets/ff266eaa-9a7f-48bd-b423-98f500425464" />
 
 ---
 
