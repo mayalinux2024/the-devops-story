@@ -2,7 +2,7 @@
 
 ## Objective
 
-Package an application and everything it needs into one portable Docker image.
+Package an application and everything it needs into one portable package using Docker.
 
 ---
 
@@ -175,14 +175,64 @@ Welcome to the DevOps Story!
 
 In the story:
 
-📦 Magic Lunchbox
-
-↓
-
-Real World:
-
-🐳 Docker Image
+The learner has successfully built the King's Magic Lunchbox.
 
 The lunchbox contains everything a worker needs.
 
-A Docker image contains everything an application needs to run anywhere.
+---
+
+# Dockerfile - The lunchbox Blueprint (Chapter 5)
+
+## Objective
+
+Understand that a Dockerfile is simply the recipe used to build a Docker image.
+
+---
+
+## 🔘 Show the Real Implementation
+
+Open the Dockerfile.
+
+```bash
+cat Dockerfile
+```
+
+Expected output:
+
+```dockerfile
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+EXPOSE 5000
+
+CMD ["python", "app.py"]
+```
+
+### What each instruction means
+
+- `FROM` → Start with an existing box.
+- `WORKDIR` → Choose where work happens inside the box.
+- `COPY` → Put files into the box.
+- `RUN` → Install everything the application needs.
+- `EXPOSE` → Tell others which door the application uses.
+- `CMD` → Tell the worker what to do when the box opens.
+
+That's it.
+
+You have now seen the blueprint the wizard follows to build every identical magic lunchbox.
+
+---
+
+## 📸 Screenshot
+
+- Dockerfile displayed in the terminal using:
+
+```bash
+cat Dockerfile
