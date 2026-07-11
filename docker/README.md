@@ -236,3 +236,5 @@ You have now seen the blueprint the wizard follows to build every identical magi
 
 ```bash
 cat Dockerfile
+
+  <img width="479" height="200" alt="Dockerfile" src="https://github.com/user-attachments/assets/63368b2c-02ba-4880-8d91-0b17552c9411" />
