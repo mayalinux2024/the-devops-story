@@ -35,6 +35,13 @@ Every chapter follows the same learning path:
 | 2 | [▶ Watch on LinkedIn](https://www.linkedin.com/posts/maya-aladdin-mohamed-89b062a3_devops-aws-ec2-ugcPost-7480709623734415361-9Z7W/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXmKHcBYDYkMBdcM2Wkgu-IAhMGwGY9l8o)|
 | 3 | [▶ Watch on LinkedIn](https://www.linkedin.com/posts/maya-aladdin-mohamed-89b062a3_devops-aws-ec2-ugcPost-7481053960343126016--XXr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXmKHcBYDYkMBdcM2Wkgu-IAhMGwGY9l8o) |
 | 4 | [▶ Watch on LinkedIn](https://www.linkedin.com/posts/maya-aladdin-mohamed-89b062a3_devops-docker-aws-ugcPost-7481422831205986304-QT7B/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXmKHcBYDYkMBdcM2Wkgu-IAhMGwGY9l8o) |
+| 5 | [▶ Watch on LinkedIn](https://www.linkedin.com/posts/maya-aladdin-mohamed-89b062a3_devops-docker-aws-ugcPost-7481769414279901184-K5fg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXmKHcBYDYkMBdcM2Wkgu-IAhMGwGY9l8o)|
+| 6 |Coming Soon|
+| 7 |Coming Soon|
+| 8 |Coming Soon|
+| 9 |Coming Soon|
+| 10 |Coming Soon |
+| 11 |Coming Soon |
 
 ---
 
