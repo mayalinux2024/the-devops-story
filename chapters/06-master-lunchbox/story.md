@@ -56,6 +56,8 @@ The master lunchbox became the standard for the whole kingdom.
 
 📦 Docker Image
 
+---
+
 The Dockerfile is only the recipe.
 
 Running
