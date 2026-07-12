@@ -1,4 +1,4 @@
-📖 Chapter 6 — The Master Lunchbox
+# 📖 Chapter 6 — The Master Lunchbox
 The Story
 
 The wizard looked at the blueprint.
@@ -44,7 +44,7 @@ Nobody forgot the instructions.
 
 The master lunchbox became the standard for the whole kingdom.
 
-🌍 Real World Translation
+# 🌍 Real World Translation
 
 📖 Dockerfile
 
