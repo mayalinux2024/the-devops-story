@@ -224,8 +224,6 @@ CMD ["python", "app.py"]
 - `EXPOSE` → Tell others which door the application uses.
 - `CMD` → Tell the worker what to do when the box opens.
 
-That's it.
-
 You have now seen the blueprint the wizard follows to build every identical magic lunchbox.
 
 ---
@@ -239,3 +237,55 @@ You have now seen the blueprint the wizard follows to build every identical magi
 ```bash
 cat Dockerfile
 
+<<<<<<< HEAD
+=======
+
+---
+
+# Docker Image — The Master Lunchbox (Chapter 6)
+
+## Objective
+
+Understand that a Docker Image is the finished package created from a Dockerfile.
+
+---
+
+## 🔘 Show the Real Implementation
+
+Run:
+
+```bash
+docker images
+```
+
+Expected output:
+
+```text
+devops-story    latest
+```
+
+That's it.
+
+The Docker Image is the master lunchbox that can be copied again and again.
+
+---
+
+## What Did We Learn?
+
+Every time we run:
+
+```bash
+docker build
+```
+
+Docker creates a Docker Image from the Dockerfile.
+
+---
+
+## 📸 Screenshot
+
+Take one screenshot:
+
+```bash
+docker images
+```
