@@ -236,10 +236,7 @@ You have now seen the blueprint the wizard follows to build every identical magi
 
 ```bash
 cat Dockerfile
-
-<<<<<<< HEAD
-=======
-
+```
 ---
 
 # Docker Image — The Master Lunchbox (Chapter 6)
@@ -286,7 +283,6 @@ Docker creates a Docker Image from the Dockerfile.
 
 <img width="466" height="71" alt="docker-images" src="https://github.com/user-attachments/assets/79c77820-863b-48ef-b718-f35887f8a3ef" />
 
-```bash
-docker images
-```
+- docker-images
+
 ---
