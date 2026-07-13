@@ -2,7 +2,7 @@
 
 Now comes the final Docker concept:
 
-| What happens when a worker actually starts using the lunchbox?
+"What happens when a worker actually starts using the lunchbox?"
 
 That's the Container.
 
