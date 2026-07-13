@@ -36,7 +36,7 @@ Welcome to the DevOps Story!
 
 That's it.
 
-The Docker Image became a running Container.
+The Docker Image is used to create a running Container.
 
 ---
 
