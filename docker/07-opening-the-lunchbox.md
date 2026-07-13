@@ -1,5 +1,11 @@
 # Container — Opening the Lunchbox (Chapter 7)
 
+Now comes the final Docker concept:
+
+| What happens when a worker actually starts using the lunchbox?
+
+That's the Container.
+
 ## Objective
 
 Understand that a Container is a running instance of a Docker Image.
