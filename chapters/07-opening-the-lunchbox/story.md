@@ -41,7 +41,7 @@ Every worker could open their own lunchbox.
 Each one worked independently.
 
 
-#🌍 Real World Translation
+# 🌍 Real World Translation
 
 📦 Docker Image
 
@@ -58,3 +58,5 @@ Each one worked independently.
 A Docker Image is stored.
 
 A Container is running.
+
+---
