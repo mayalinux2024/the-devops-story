@@ -50,7 +50,11 @@ Running Container
 
 ## 📸 Screenshots
 
-Take two screenshots:
-
 - `docker run -p 5000:5000 devops-story`
+
+  <img width="637" height="99" alt="docker-run" src="https://github.com/user-attachments/assets/3d59f391-6ced-48df-b8db-fc8fc4ffe0ed" />
+
 - Browser showing the application.
+
+  <img width="194" height="83" alt="browser-docker-magic-lunchbox-image" src="https://github.com/user-attachments/assets/67ddaa8a-4056-45aa-8a16-0403fbe9a6d8" />
+
