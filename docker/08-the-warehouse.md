@@ -87,5 +87,14 @@ http://localhost:5000
 ## 📸 Screenshots
 
 1. Successful `docker login`
-2. Successful `docker push mayalinux/devops-story:latest`
-3. Docker Hub showing the **devops-story** repository
+2. `docker tag`
+
+  <img width="755" height="62" alt="docker-login" src="https://github.com/user-attachments/assets/17c5c78f-c008-4a44-b0cc-e19ceeea100a" />
+
+3. Successful `docker push mayalinux/devops-story:latest`
+
+   <img width="699" height="154" alt="docker-push" src="https://github.com/user-attachments/assets/f241a25e-298f-4753-bcec-5478a2f54880" />
+
+5. Docker Hub showing the **devops-story** repository
+
+   <img width="660" height="234" alt="docker-hub" src="https://github.com/user-attachments/assets/95a38e26-28c1-4456-8d91-059724cbecdd" />
