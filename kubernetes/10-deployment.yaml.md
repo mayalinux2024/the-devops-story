@@ -8,13 +8,13 @@
 
 ---
 
-#🔘 Show the Real Implementation
+# 🔘 Show the Real Implementation
 
 Today we will give the mayor his first written instructions.
 
 The mayor cannot organize workers until someone tells him what to create.
 
-Step 1 — Write the Mayor's Instructions
+- Step 1 — Write the Mayor's Instructions
 
 Create a file:
 
@@ -70,16 +70,23 @@ For now, just remember:
 ↓
 
 Instructions for the Mayor
-Step 2 — Give the Instructions to the Mayor
+
+- Step 2 — Give the Instructions to the Mayor
+
 kubectl apply -f 10-deployment.yaml
 
 Expected output:
 
 deployment.apps/devops-story created
+
 What this command means
+
 kubectl → The messenger that talks to the mayor.
+
 apply → Give the mayor new instructions.
+
 -f → Read the instructions from a file.
+
 10-deployment.yaml → The written instructions.
 
 Story translation:
@@ -97,12 +104,15 @@ Mayor (Kubernetes)
 ↓
 
 "Please create one DevOps Story worker."
-Step 3 — Ask What the Mayor Is Managing
+
+- Step 3 — Ask What the Mayor Is Managing
+
 kubectl get deployments
 
 ...
 
-Step 4 — See the Worker
+- Step 4 — See the Worker
+
 kubectl get pods
 
 ...
