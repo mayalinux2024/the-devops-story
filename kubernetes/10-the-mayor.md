@@ -192,31 +192,47 @@ This is the entire journey of our DevOps Story application.
 1.
 
 ```bash
-kubectl apply -f 10-deployment.yaml
+nano 10-deployment.yaml
 ```
+
+<img width="329" height="330" alt="10-deployment yaml" src="https://github.com/user-attachments/assets/6ac98a10-3c93-4e78-9191-c9df7070200e" />
 
 2.
 
 ```bash
+kubectl apply -f 10-deployment.yaml
+```
+
+<img width="649" height="29" alt="kubectl-apply" src="https://github.com/user-attachments/assets/cfc50215-cb99-42c6-8d20-62f1818b4f51" />
+
+3.
+
+```bash
 kubectl get deployments
 ```
 
-3.
+<img width="568" height="44" alt="kubectl-get-deployments" src="https://github.com/user-attachments/assets/6bfa5f21-0a4f-4109-ae0b-db2c11984c0b" />
+
+4.
 
 ```bash
 kubectl get pods
 ```
 
+<img width="516" height="47" alt="kubectl-get-pods" src="https://github.com/user-attachments/assets/acabe535-df53-4e4b-af0e-34f3be31da7d" />
+
+---
+
 ## Summary
 
-kubectl apply
+- kubectl apply
         ↓
 Tell the mayor what you want
 
-kubectl get deployments
+- kubectl get deployments
         ↓
 The mayor records the plan
 
-kubectl get pods
+- kubectl get pods
         ↓
 The mayor creates workers to carry out the plan
