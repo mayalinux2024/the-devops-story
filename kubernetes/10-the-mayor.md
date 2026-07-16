@@ -225,14 +225,16 @@ kubectl get pods
 
 ## Summary
 
-- kubectl apply
+```text
+kubectl apply
         ↓
 Tell the mayor what you want
 
-- kubectl get deployments
+kubectl get deployments
         ↓
 The mayor records the plan
 
-- kubectl get pods
+kubectl get pods
         ↓
 The mayor creates workers to carry out the plan
+```
