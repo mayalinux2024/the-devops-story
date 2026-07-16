@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: devops-story
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: devops-story
+  template:
+    metadata:
+      labels:
+        app: devops-story
+    spec:
+      containers:
+      - name: devops-story
+        image: mayalinux/devops-story:latest
+        ports:
+        - containerPort: 5000
