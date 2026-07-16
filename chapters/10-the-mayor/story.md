@@ -52,6 +52,7 @@ He simply made sure the right workers were always doing the right jobs.
 
 # 🌍 Real World Translation (End Card)
 
+```text
 👑 Kingdom
         │
         ▼
@@ -59,6 +60,7 @@ He simply made sure the right workers were always doing the right jobs.
         │
         ▼
 ⚙️ Kubernetes
+```
 
 Kubernetes doesn't build applications.
 
@@ -73,7 +75,7 @@ Kubernetes decides where those containers should run.
 That distinction is one of the most important ideas in Kubernetes.
 
 # Short Story 
-
+```text
 The king hires a mayor.
 The mayor never builds toys.
 Instead...
@@ -95,4 +97,5 @@ Mayor says:
 "You build teddy bears."
 The mayor gives jobs.
 The mayor is Kubernetes.
+```
 
