@@ -40,7 +40,7 @@ Every chapter follows the same learning path:
 | 7 | [▶ Watch on LinkedIn](https://www.linkedin.com/posts/maya-aladdin-mohamed-89b062a3_the-devops-story-chapter-7-the-wizard-ugcPost-7482534175313530881-_sh_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXmKHcBYDYkMBdcM2Wkgu-IAhMGwGY9l8o)|
 | 8 |[▶ Watch on LinkedIn](https://www.linkedin.com/posts/maya-aladdin-mohamed-89b062a3_devops-docker-dockerhub-ugcPost-7482885414417006592--e3Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXmKHcBYDYkMBdcM2Wkgu-IAhMGwGY9l8o)|
 | 9 |[▶ Watch on LinkedIn](https://www.linkedin.com/posts/maya-aladdin-mohamed-89b062a3_devops-docker-kubernetes-ugcPost-7483274463321595904-Ey7N/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXmKHcBYDYkMBdcM2Wkgu-IAhMGwGY9l8o)|
-| 10 |Coming Soon |
+| 10 |[▶ Watch on LinkedIn](https://www.linkedin.com/posts/maya-aladdin-mohamed-89b062a3_devops-kubernetes-cloudcomputing-activity-7483674642398928896--ZCv?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXmKHcBYDYkMBdcM2Wkgu-IAhMGwGY9l8o) |
 | 11 |Coming Soon |
 
 ---
